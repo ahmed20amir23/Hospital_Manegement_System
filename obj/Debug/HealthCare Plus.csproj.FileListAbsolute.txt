@@ -1,0 +1,19 @@
+C:\Users\Public\Downloads\HealthCare-Plus-master\HealthCare-Plus-master\obj\Debug\HealthCare Plus.csproj.AssemblyReference.cache
+C:\Users\Public\Downloads\HealthCare-Plus-master\HealthCare-Plus-master\obj\Debug\HealthCare_Plus.Forms.Auth.AdminLoginForm.resources
+C:\Users\Public\Downloads\HealthCare-Plus-master\HealthCare-Plus-master\obj\Debug\HealthCare_Plus.Forms.Auth.StaffLoginForm.resources
+C:\Users\Public\Downloads\HealthCare-Plus-master\HealthCare-Plus-master\obj\Debug\HealthCare_Plus.Forms.Auth.RegisterForm.resources
+C:\Users\Public\Downloads\HealthCare-Plus-master\HealthCare-Plus-master\obj\Debug\HealthCare_Plus.Forms.Dashboard.Admin.AdminDashboard.resources
+C:\Users\Public\Downloads\HealthCare-Plus-master\HealthCare-Plus-master\obj\Debug\HealthCare_Plus.Forms.Dashboard.Admin.DoctorsForm.resources
+C:\Users\Public\Downloads\HealthCare-Plus-master\HealthCare-Plus-master\obj\Debug\HealthCare_Plus.Forms.Dashboard.Admin.PatientsForm.resources
+C:\Users\Public\Downloads\HealthCare-Plus-master\HealthCare-Plus-master\obj\Debug\HealthCare_Plus.Forms.Dashboard.Admin.ReportsForm.resources
+C:\Users\Public\Downloads\HealthCare-Plus-master\HealthCare-Plus-master\obj\Debug\HealthCare_Plus.Forms.Dashboard.Admin.StaffForm.resources
+C:\Users\Public\Downloads\HealthCare-Plus-master\HealthCare-Plus-master\obj\Debug\HealthCare_Plus.Forms.Dashboard.Common.AddAppointmentForm.resources
+C:\Users\Public\Downloads\HealthCare-Plus-master\HealthCare-Plus-master\obj\Debug\HealthCare_Plus.Forms.Dashboard.Common.AppoinmentForm.resources
+C:\Users\Public\Downloads\HealthCare-Plus-master\HealthCare-Plus-master\obj\Debug\HealthCare_Plus.Forms.Dashboard.Common.PaymentForm.resources
+C:\Users\Public\Downloads\HealthCare-Plus-master\HealthCare-Plus-master\obj\Debug\HealthCare_Plus.Forms.Dashboard.Common.ScheduleForm.resources
+C:\Users\Public\Downloads\HealthCare-Plus-master\HealthCare-Plus-master\obj\Debug\HealthCare_Plus.Forms.Dashboard.Reports.InvoiceView.resources
+C:\Users\Public\Downloads\HealthCare-Plus-master\HealthCare-Plus-master\obj\Debug\HealthCare_Plus.Forms.Dashboard.Staff.DoctorForm.resources
+C:\Users\Public\Downloads\HealthCare-Plus-master\HealthCare-Plus-master\obj\Debug\HealthCare_Plus.Forms.Dashboard.StaffDashboard.resources
+C:\Users\Public\Downloads\HealthCare-Plus-master\HealthCare-Plus-master\obj\Debug\HealthCare_Plus.Home.resources
+C:\Users\Public\Downloads\HealthCare-Plus-master\HealthCare-Plus-master\obj\Debug\HealthCare_Plus.Properties.Resources.resources
+C:\Users\Public\Downloads\HealthCare-Plus-master\HealthCare-Plus-master\obj\Debug\HealthCare Plus.csproj.GenerateResource.cache
